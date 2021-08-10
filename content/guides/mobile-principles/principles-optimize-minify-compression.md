@@ -189,6 +189,8 @@ While image optimization is still more of an “art” than a science, the follo
 - **Optimize Images** | https://developers.google.com/speed/docs/insights/OptimizeImages
 - **PageSpeed: Optimize Images** | https://gtmetrix.com/optimize-images.html
 - **Image Optimization 101 – Optimize Blog Post Images For SEO** | https://www.bloggertipstricks.com/image-optimization-seo.html
+- **Image Optimization result – live image test result** | https://www.seoptimer.com/image-optimization-checker/techkari.com
+
 
 ## Optimize CSS Delivery
 
